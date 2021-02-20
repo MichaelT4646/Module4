@@ -13,5 +13,7 @@ public class MainCode {
 		else{
 			System.out.println("That's a cool way to feel I guess...");
 		}
+		
+		System.out.println("WEll thanks for telling me how you feel!");
 	}
 }
